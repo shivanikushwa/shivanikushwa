@@ -5,13 +5,16 @@
 📩 Email Me: shivanikushwaha8878@gmail.com for Job Opportunities, Collaboration, Projects, or Anything Else. 😊
 
 🔎 I’m currently looking for: Python/Django Developer opportunities
+
 💻 I’m currently learning: FastAPI, AWS & DevOps
+
 🤝 I’m looking to collaborate on: Python, Django & Open-Source Projects
+
 🛠️ I’m looking for help with: Advanced Backend & Cloud Technologies
+
 💬 Ask me about: Python, Django, REST APIs, SQL & AWS
+
 📧 How to reach me: shivanikushwa8878@gmail.com
-😊 Pronouns: She/Her
-⚡ Fun fact: I love learning new technologies and building useful applications!
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/shivani-kushwaha-0a39281b7) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@Shivani) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shivanikushwaha8878@gmail.com) 
 
